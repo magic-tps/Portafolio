@@ -18,7 +18,7 @@ export const profile = {
   name: "Tomas Alonso Pastor Salazar",
   title: "Ciencias de la Computación | AI Engineer | Full Stack Developer",
   summary:
-    "Estudiante de noveno ciclo de Ciencias de la Computación en la UPC, perteneciente al Décimo Superior, con experiencia práctica en desarrollo web, análisis de datos y modelos de Machine Learning y Deep Learning aplicados a visión computacional, OCR y datos visuales.",
+    "Perfil de Ciencias de la Computación en la UPC, noveno ciclo y Décimo Superior, con experiencia práctica creando soluciones web, analítica de datos y modelos de Machine Learning y Deep Learning aplicados a visión computacional, OCR y datos visuales.",
   location: "Lima, Perú",
   cycle: "Noveno ciclo",
   ranking: "Décimo Superior",
@@ -56,37 +56,37 @@ export const aboutCards = [
   {
     icon: "ai" satisfies IconKey,
     title: "Inteligencia Artificial",
-    body: "Construcción de prototipos inteligentes con criterio de producto, datos limpios y validación medible.",
+    body: "Diseño de prototipos inteligentes con criterio de producto, datos limpios y validación medible.",
   },
   {
     icon: "vision" satisfies IconKey,
     title: "Computer Vision",
-    body: "Aplicaciones en reconocimiento de imágenes, análisis de escenas y procesamiento de datos visuales.",
+    body: "Reconocimiento de imágenes, análisis de escenas y procesamiento visual orientado a casos reales.",
   },
   {
     icon: "ocr" satisfies IconKey,
     title: "OCR inteligente",
-    body: "Extracción y estructuración de información desde documentos, imágenes y flujos visuales.",
+    body: "Extracción, limpieza y estructuración de información desde documentos, imágenes y flujos visuales.",
   },
   {
     icon: "ml" satisfies IconKey,
     title: "Machine Learning",
-    body: "Modelos supervisados, métricas de evaluación y pipelines reproducibles con Python.",
+    body: "Modelos supervisados, evaluación con métricas y pipelines reproducibles construidos con Python.",
   },
   {
     icon: "fullstack" satisfies IconKey,
     title: "Full Stack",
-    body: "Landing pages y experiencias responsive con React, Vite, JavaScript y buenas prácticas web.",
+    body: "Interfaces responsive y landing pages de alto impacto con React, Vite, JavaScript y buenas prácticas web.",
   },
   {
     icon: "data" satisfies IconKey,
     title: "Data Analytics",
-    body: "Dashboards, consultas SQL, Power BI y visualización para convertir datos en decisiones.",
+    body: "Dashboards, SQL, Power BI y visualización para convertir datos en decisiones claras.",
   },
   {
     icon: "security" satisfies IconKey,
     title: "Ciberseguridad e IT",
-    body: "Fundamentos de Linux, redes, administración de sistemas y gestión de riesgos de seguridad.",
+    body: "Base sólida en Linux, redes, administración de sistemas y gestión de riesgos de seguridad.",
   },
 ];
 
@@ -172,8 +172,8 @@ export const experienceTimeline = [
     date: "Noviembre 2024",
     type: "Académica",
     title: "Predicción de supervivencia Titanic",
-    role: "Estudiante",
-    body: "Aplicación web que estima la probabilidad de supervivencia de pasajeros usando aprendizaje automático.",
+    role: "Desarrollador ML",
+    body: "Aplicación web que estima probabilidades de supervivencia usando aprendizaje automático y evaluación comparativa de modelos.",
     highlights: [
       "Entrenamiento y comparación de Random Forest y KNN.",
       "Limpieza, codificación y escalado del dataset.",
@@ -187,8 +187,8 @@ export const experienceTimeline = [
     date: "Setiembre 2024",
     type: "Académica",
     title: "Landing Page Squirle Box",
-    role: "Estudiante",
-    body: "Diseño y desarrollo de una landing page responsiva orientada a captación de interesados.",
+    role: "Desarrollador web",
+    body: "Diseño y desarrollo de una landing page responsiva enfocada en captación de leads y comunicación con clientes.",
     highlights: [
       "Interfaz moderna con HTML, CSS y JavaScript.",
       "Optimización de navegación, recursos y tiempos de carga.",
