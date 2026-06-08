@@ -32,7 +32,7 @@ export const profile = {
   githubUrl: "https://github.com/magic-tps",
   linkedInUrl:
     "https://www.linkedin.com/search/results/people/?keywords=Tomas%20Alonso%20Pastor%20Salazar",
-  cvUrl: "/Tomas-Alonso-Pastor-Salazar-CV.pdf",
+  cvUrl: "Tomas-Alonso-Pastor-Salazar-CV.pdf",
 };
 
 export const navigation = [
